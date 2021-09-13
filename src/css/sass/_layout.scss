@@ -22,6 +22,7 @@ a {
 .container {
   max-width: 1200px;
   margin: 0 auto;
+  padding: px 20px;
 }
 
 .border {
@@ -55,4 +56,23 @@ a {
   border-radius: 4px;
   color: $white-light;
   padding: 5px;
+}
+
+.imgProfile {
+  width: 56px;
+  height: 56px;
+  background-color: $gray-2;
+  border-radius: 50%;
+}
+
+.containerPosts {
+  display: flex;
+}
+
+.post {
+  border-radius: 7px;
+  padding: 10px;
+  background-color: $black-lightbg;
+  margin-left: 10px;
+  margin-right: 10px;
 }
