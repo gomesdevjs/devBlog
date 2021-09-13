@@ -8,7 +8,7 @@ function Articles() {
 
   return (
     <section className="container border">
-      <h1>Article</h1>
+      <h3>Article</h3>
       <div className="containerPosts">
         <Posts subtitle="tecnologia" title="O guia definititivo sobre o blog" />
         <Posts

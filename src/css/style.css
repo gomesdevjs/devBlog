@@ -44,6 +44,10 @@ h5 {
 
 h6 {
   font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #4ddcff;
+  font-weight: 300;
 }
 
 p {

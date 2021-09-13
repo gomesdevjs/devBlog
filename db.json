@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "category": "Tecnologia",
+      "title": "O guia definitivo sobre o blog",
+      "resume": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet perferendis pariatur autem deleniti eos inventore quidem a veritatis",
+      "author": "Fulano de tal",
+      "date": "Aug 2, 2021"
+    },
+    {
+      "id": 2,
+      "category": "Fotografia",
+      "title": "Quais as melhores cameras em 2021?",
+      "resume": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet perferendis pariatur autem deleniti eos inventore quidem a veritatis",
+      "author": "Ciclano de tal",
+      "date": "Aug 4, 2021"
+    },
+    {
+      "id": 3,
+      "category": "Cinema",
+      "title": "Filmes lançamento MARVEL 2021",
+      "resume": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet perferendis pariatur autem deleniti eos inventore quidem a veritatis",
+      "author": "Beltrano de tal",
+      "date": "Aug 5, 2021"
+    }
+  ]
+}

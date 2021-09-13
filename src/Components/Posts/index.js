@@ -2,8 +2,8 @@ const Posts = ({ title, subtitle }) => {
   return (
     <div className="post border">
       <div className="imgPost"></div>
-      <h5>{subtitle}</h5>
-      <h3>{title}</h3>
+      <h6>{subtitle}</h6>
+      <h4>{title}</h4>
       <p>
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet
         perferendis pariatur autem deleniti eos inventore quidem a veritatis
