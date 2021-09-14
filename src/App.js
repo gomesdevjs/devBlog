@@ -1,11 +1,13 @@
 import Header from "./Components/Header";
-import Articles from "./Components/Articles";
+import Main from "./Pages/Main";
 
 function App() {
+  // useState
+
   return (
     <>
-      <Header></Header>
-      <Articles></Articles>
+      <Header />
+      <Main />
     </>
   );
 }
